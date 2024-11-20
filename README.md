@@ -3,6 +3,8 @@
 
 ---
 
+Updates: Try it out on [ChatGPT](https://chatgpt.com/g/g-673d317d5adc8191986739b3be6dddc4-aiql-assistant)
+
 ## 1. **Introduction**
 
 Artificial Intelligence Query Language (AIQL) is a powerful yet simple tool for working with AI systems. AI has become an integral part of many fields, from business analytics to personal productivity, but accessing its full potential often requires technical expertise. AIQL aims to make these capabilities accessible to everyone, whether you are a developer, data analyst, or someone curious about AI.
