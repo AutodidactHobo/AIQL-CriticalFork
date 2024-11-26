@@ -330,4 +330,5 @@ Fallback: "Provide generic health tips if specific analysis is unavailable."
 ## 6. **References**
 
 [1] https://www.linkedin.com/pulse/exploring-different-prompt-frameworks-applications-ahmed-albadri-kwj9f
+
 [2] https://arxiv.org/html/2411.10541v1
