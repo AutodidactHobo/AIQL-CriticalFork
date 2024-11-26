@@ -3,6 +3,7 @@
 
 ---
 
+Updates: Added References
 Updates: Try it out on [ChatGPT](https://chatgpt.com/g/g-673d317d5adc8191986739b3be6dddc4-aiql-assistant)
 
 ## 1. **Introduction**
@@ -38,7 +39,7 @@ That’s it! The AIQL program is straightforward and human-readable, making it e
 
 ## 2. **Why AIQL is Necessary**
 
-Artificial Intelligence has revolutionized many industries, but accessing its full potential remains surprisingly difficult for most users. Why? The answer lies in the limitations of current methods of interacting with AI systems. Let’s explore these challenges and understand why a tool like AIQL is indispensable.
+Artificial Intelligence has revolutionized many industries, but accessing its full potential remains surprisingly difficult for most users. Why? The answer lies in the limitations of current methods of interacting with AI systems. "Exploring different prompt frameworks"[1] provides a good summary of existing prompt frameworks and current challenges. Let’s explore these challenges and understand why a tool like AIQL is indispensable.
 
 ### **The Current Problems**
 
@@ -84,7 +85,9 @@ In short, AIQL empowers users to unlock the true potential of AI by turning comp
 
 ## 3. **How AIQL Solves These Problems**
 
-AIQL is more than just a tool—it’s a paradigm shift in how we interact with AI. By introducing structure and consistency, AIQL directly addresses the challenges users face when working with AI systems. Let’s dive deeper into the key advantages:
+AIQL is more than just a tool—it’s a paradigm shift in how we interact with AI. By introducing structure and consistency, AIQL directly addresses the challenges users face when working with AI systems. Recent research[2] indicates that overly structured queries negatively impacts the performance of the query. However, there is little or no research on how much structure is too much, and what makes a good structure. 
+
+Let’s dive deeper into the key advantages of AIQL:
 
 ### **1. Clarity and Precision**
 
@@ -321,3 +324,10 @@ Output:
 # Fallback
 Fallback: "Provide generic health tips if specific analysis is unavailable."
 ```
+
+---
+
+## 6. **References**
+
+[1] https://www.linkedin.com/pulse/exploring-different-prompt-frameworks-applications-ahmed-albadri-kwj9f
+[2] https://arxiv.org/html/2411.10541v1
