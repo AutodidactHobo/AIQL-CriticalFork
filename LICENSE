@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+---
+### Additional License & Attribution
+
+This repository is a fork of [AgileFederation/AIQL](https://github.com/AgileFederation/AIQL),  
+originally licensed under the MIT License (see above). All modifications in this fork - 
+including recursion alignment, containment logic structures, and consent-first protocol architecture - 
+are © 2025 Sierra Raye and are licensed under the same MIT terms.
+
+This fork retains the original license and extends its application while introducing  
+critical refinements to structure and ethical alignment.
